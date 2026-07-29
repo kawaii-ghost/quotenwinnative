@@ -37,6 +37,10 @@ If the quotes contains more than one line, just create newline and continue the 
 I provided the example file so you can just edit with your own preferences.
 
 ## How this work?
+
+<img width="963" height="1280" alt="image" src="https://github.com/user-attachments/assets/72d2c989-c14d-4b40-a3e0-c0b8423b329c" />
+
+
 Read [this](https://medium.com/windows-os-internals/windows-native-api-programming-hello-world-8f256abe1c85?sharedUserId=kawaiighost), you can just skip into the Native Subsystem parts.
 
 ## What's the rationale of using file mapping instead of reading file and store it into buffer?
